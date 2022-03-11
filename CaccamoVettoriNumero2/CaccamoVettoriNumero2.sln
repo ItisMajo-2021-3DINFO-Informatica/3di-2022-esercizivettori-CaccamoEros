@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaccamoVettoriNumero2", "CaccamoVettoriNumero2\CaccamoVettoriNumero2.csproj", "{A84B8A6A-8D49-4481-BFBB-32B986E3CD9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A84B8A6A-8D49-4481-BFBB-32B986E3CD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84B8A6A-8D49-4481-BFBB-32B986E3CD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84B8A6A-8D49-4481-BFBB-32B986E3CD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84B8A6A-8D49-4481-BFBB-32B986E3CD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9679F802-6BC7-466B-851F-DFF78D741F8B}
+	EndGlobalSection
+EndGlobal

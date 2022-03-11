@@ -1,0 +1,16 @@
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CaccamoEros\CaccamoVettoriNumero2\CaccamoVettoriNumero2\bin\Debug\net5.0\CaccamoVettoriNumero2.exe
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CaccamoEros\CaccamoVettoriNumero2\CaccamoVettoriNumero2\bin\Debug\net5.0\CaccamoVettoriNumero2.deps.json
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CaccamoEros\CaccamoVettoriNumero2\CaccamoVettoriNumero2\bin\Debug\net5.0\CaccamoVettoriNumero2.runtimeconfig.json
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CaccamoEros\CaccamoVettoriNumero2\CaccamoVettoriNumero2\bin\Debug\net5.0\CaccamoVettoriNumero2.runtimeconfig.dev.json
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CaccamoEros\CaccamoVettoriNumero2\CaccamoVettoriNumero2\bin\Debug\net5.0\CaccamoVettoriNumero2.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CaccamoEros\CaccamoVettoriNumero2\CaccamoVettoriNumero2\bin\Debug\net5.0\ref\CaccamoVettoriNumero2.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CaccamoEros\CaccamoVettoriNumero2\CaccamoVettoriNumero2\bin\Debug\net5.0\CaccamoVettoriNumero2.pdb
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CaccamoEros\CaccamoVettoriNumero2\CaccamoVettoriNumero2\obj\Debug\net5.0\CaccamoVettoriNumero2.csproj.AssemblyReference.cache
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CaccamoEros\CaccamoVettoriNumero2\CaccamoVettoriNumero2\obj\Debug\net5.0\CaccamoVettoriNumero2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CaccamoEros\CaccamoVettoriNumero2\CaccamoVettoriNumero2\obj\Debug\net5.0\CaccamoVettoriNumero2.AssemblyInfoInputs.cache
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CaccamoEros\CaccamoVettoriNumero2\CaccamoVettoriNumero2\obj\Debug\net5.0\CaccamoVettoriNumero2.AssemblyInfo.cs
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CaccamoEros\CaccamoVettoriNumero2\CaccamoVettoriNumero2\obj\Debug\net5.0\CaccamoVettoriNumero2.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CaccamoEros\CaccamoVettoriNumero2\CaccamoVettoriNumero2\obj\Debug\net5.0\CaccamoVettoriNumero2.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CaccamoEros\CaccamoVettoriNumero2\CaccamoVettoriNumero2\obj\Debug\net5.0\ref\CaccamoVettoriNumero2.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CaccamoEros\CaccamoVettoriNumero2\CaccamoVettoriNumero2\obj\Debug\net5.0\CaccamoVettoriNumero2.pdb
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CaccamoEros\CaccamoVettoriNumero2\CaccamoVettoriNumero2\obj\Debug\net5.0\CaccamoVettoriNumero2.genruntimeconfig.cache

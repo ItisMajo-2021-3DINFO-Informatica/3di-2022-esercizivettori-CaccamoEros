@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\CaccamoVettoriNumero5\CaccamoVettoriNumero5\obj\Debug\net5.0\CaccamoVettoriNumero5.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\CaccamoVettoriNumero5\CaccamoVettoriNumero5\obj\Debug\net5.0\CaccamoVettoriNumero5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\CaccamoVettoriNumero5\CaccamoVettoriNumero5\obj\Debug\net5.0\CaccamoVettoriNumero5.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\CaccamoVettoriNumero5\CaccamoVettoriNumero5\obj\Debug\net5.0\CaccamoVettoriNumero5.AssemblyInfo.cs
+C:\Users\Utente\Desktop\CaccamoVettoriNumero5\CaccamoVettoriNumero5\obj\Debug\net5.0\CaccamoVettoriNumero5.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\CaccamoVettoriNumero5\CaccamoVettoriNumero5\bin\Debug\net5.0\CaccamoVettoriNumero5.exe
+C:\Users\Utente\Desktop\CaccamoVettoriNumero5\CaccamoVettoriNumero5\bin\Debug\net5.0\CaccamoVettoriNumero5.deps.json
+C:\Users\Utente\Desktop\CaccamoVettoriNumero5\CaccamoVettoriNumero5\bin\Debug\net5.0\CaccamoVettoriNumero5.runtimeconfig.json
+C:\Users\Utente\Desktop\CaccamoVettoriNumero5\CaccamoVettoriNumero5\bin\Debug\net5.0\CaccamoVettoriNumero5.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\CaccamoVettoriNumero5\CaccamoVettoriNumero5\bin\Debug\net5.0\CaccamoVettoriNumero5.dll
+C:\Users\Utente\Desktop\CaccamoVettoriNumero5\CaccamoVettoriNumero5\bin\Debug\net5.0\ref\CaccamoVettoriNumero5.dll
+C:\Users\Utente\Desktop\CaccamoVettoriNumero5\CaccamoVettoriNumero5\bin\Debug\net5.0\CaccamoVettoriNumero5.pdb
+C:\Users\Utente\Desktop\CaccamoVettoriNumero5\CaccamoVettoriNumero5\obj\Debug\net5.0\CaccamoVettoriNumero5.dll
+C:\Users\Utente\Desktop\CaccamoVettoriNumero5\CaccamoVettoriNumero5\obj\Debug\net5.0\ref\CaccamoVettoriNumero5.dll
+C:\Users\Utente\Desktop\CaccamoVettoriNumero5\CaccamoVettoriNumero5\obj\Debug\net5.0\CaccamoVettoriNumero5.pdb
+C:\Users\Utente\Desktop\CaccamoVettoriNumero5\CaccamoVettoriNumero5\obj\Debug\net5.0\CaccamoVettoriNumero5.genruntimeconfig.cache
